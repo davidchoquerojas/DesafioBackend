@@ -1,4 +1,4 @@
-# Algorimos 
+# Algoritmos 
 Proyecto de test- algoritms
 
 PARTE 01 : Resolver los siguientes casos usando íntegramente PHP
