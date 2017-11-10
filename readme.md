@@ -1,5 +1,5 @@
 # Algoritmos 
-Proyecto de test- algoritms
+Proyecto de test- algoritmos
 
 PARTE 01 : Resolver los siguientes casos usando íntegramente PHP
 ---
@@ -26,7 +26,7 @@ Finalmente devolver la cadena.
 - entrada: ```**Casa 52Z``` - salida: ```**Dbtb 52A```
 
 **Resultado**
-Ejecucion desde CMD > C:\xampp\php\php.exe ChangeString.php
+Ejecución desde CMD > C:\xampp\php\php.exe ChangeString.php
 
 
 ### Problema 02
@@ -48,7 +48,7 @@ colección en el rango dado. Finalmente devolver la colección completa.
 - entrada: ```[55, 58, 60]``` - salida: ```[55, 56, 57, 58, 59, 60]```
 
 **Resultado**
-Ejecucion desde CMD > C:\xampp\php\php.exe CompleteRang.php
+Ejecución desde CMD > C:\xampp\php\php.exe CompleteRang.php
 
 ### Problema 03
 
@@ -71,7 +71,7 @@ pareja. Finalmente devolver la nueva cadena.
 - entrada: ```((()``` - salida: ```()```
 
 **Resultado**
-Ejecucion desde CMD > C:\xampp\php\php.exe ClearPar.php
+Ejecución desde CMD > C:\xampp\php\php.exe ClearPar.php
 
 PARTE 02 : Desarrollar la siguiente aplicación
 ---
@@ -79,7 +79,7 @@ PARTE 02 : Desarrollar la siguiente aplicación
 **Consideraciones preliminares:**
 
 - Se debe usar el framework slim (http://www.slimframework.com/) || (https://laravel.com/)  || ETC, para el desarrollo de la aplicación
-- El archivo JSON para trabajar con el aplicativo está es http://server-domain/db/employes.json
+- El archivo JSON para trabajar con el aplicativo está  (https://github.com/davidchoquerojas/DesafioBackend/blob/master/developer/public/db/employes.json)
 
 **Enunciado**
 
